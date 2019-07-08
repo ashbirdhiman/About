@@ -1,0 +1,123 @@
+@charset "utf-8";
+/* CSS Document */
+
+.header
+{
+background:#CCC;
+size:auto;
+}
+
+.HeaderText{
+	font-family: 'Roboto Mono', monospace;
+
+	font-size:14px;
+	color:#CCC;
+}
+HeaderText:hover{
+color:#999;
+}
+HeaderText:link {
+  color: red;
+}
+
+.top-right{
+	float:right;
+	
+}
+#header .social-widget {
+margin-right: 0px;
+}
+#header {
+	position: relative;
+	padding: 2.25em 30px 2.04em;
+	width: auto;
+}
+
+
+.social-ul {
+  list-style-type: none;
+  margin: 0;
+  
+  overflow: hidden;
+  float:right;
+  
+}
+
+.social-li{
+  float: right;
+  
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+.myname
+{
+	padding-top:90px;
+	font-family: 'Ubuntu', sans-serif;
+	font-size:100px;
+	text-align:center;
+}
+.projectname
+{
+	padding-top:30px;
+	font-family: 'Ubuntu', sans-serif;
+	font-size:40px;
+	text-align:center;
+}
+.intro-font{
+	font-family: 'Roboto Mono', monospace;
+	font-size:18px;
+	text-align:justify;
+	margin-left:10px;
+	
+}
+
+.seating-intro-font{
+	font-family: 'Roboto Mono', monospace;
+	font-size:16px;
+	text-align:justify;
+	margin-left:10px;
+	
+}
+.seating{
+	background:#7495E0;
+	size:auto;
+
+}
+
+.parking-intro-font{
+	font-family: 'Roboto Mono', monospace;
+	font-size:15px;
+	text-align:justify;
+	margin-left:10px;
+	
+}
+.contact{
+	background:#CCC;
+	size:auto;
+
+}
+
+.socialend-ul {
+  list-style-type: none;
+  margin: 0;
+  overflow: hidden;
+ 
+  margin-left:457px;
+}
+
+.socialend-li{
+
+  float:left;
+}
+.FooterText{
+	font-family: 'Roboto Mono', monospace;
+
+	font-size:14px;
+	color:#000;
+}

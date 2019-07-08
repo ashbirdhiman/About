@@ -1,0 +1,173 @@
+@charset "utf-8";
+/* CSS Document */
+
+.header
+{
+background:#CCC;
+size:auto;
+}
+
+.HeaderText{
+	font-family: 'Roboto Mono', monospace;
+
+	font-size:14px;
+	color:#CCC;
+}
+HeaderText:hover{
+color:#999;
+}
+HeaderText:link {
+  color: red;
+}
+
+.top-right{
+	float:right;
+	
+}
+#header .social-widget {
+margin-right: 0px;
+}
+#header {
+	position: relative;
+	padding: 2.25em 30px 2.04em;
+	width: auto;
+}
+
+
+.social-ul {
+  list-style-type: none;
+  margin: 0;
+  padding: ;
+  overflow: hidden;
+  float:right;
+  
+}
+
+.social-li{
+  float: right;
+  
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+.myname
+{
+	padding-top:90px;
+	font-family: 'Ubuntu', sans-serif;
+	font-size:100px;
+	text-align:center;
+}
+.about
+{
+background:#99C;
+size:auto;
+
+}
+.intro-font{
+	font-family: 'Roboto Mono', monospace;
+	font-size:18px;
+	text-align:justify;
+	margin-left:90px;
+
+
+	
+}
+.rotateimg90{
+	margin-left:-30px;
+	
+	 max-width: 93%;
+  max-height: 190%;
+ 
+  
+}
+.education{
+	background:#7495E0;
+	size:auto;
+
+}
+.myeducation
+{
+	padding-top:10px;
+	font-family: 'Ubuntu', sans-serif;
+	font-size:50px;
+	text-align:center;
+}
+
+.btech{
+background-color: #e7e7e7; color: black;
+  	padding: 8px 32px;
+  text-align: start;
+  font-size: 24px;
+  border-radius: 12px;
+  size:auto;
+  inline-box-align:initial;
+  padding-bottom:50px;
+}
+.institute
+{
+	color:#909090;
+	font-size:14px;
+}
+.time{
+padding: 4px 4px;
+font-size:18px;
+text-align:center;
+border-radius: 12px;
+background-color: white;
+  border: 2px solid #909090;
+margin-top:10px;
+}
+.time:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+.study{
+background:#D3D3D3;
+border:2px solid #909090;
+font-family: 'Varela Round', sans-serif;
+font-size:16px;
+
+}
+.inst_logo{
+	background:white;
+	
+	width:100%;
+	height:100%;
+}
+.duration
+{
+	text-align:right;
+	margin-right:10px;
+	font-family: 'Arvo', serif;
+	font-size:14px;
+}
+
+.contact{
+	background:#CCC;
+	size:auto;
+
+}
+
+.socialend-ul {
+  list-style-type: none;
+  margin: 0;
+  overflow: hidden;
+ 
+  margin-left:457px;
+}
+
+.socialend-li{
+
+  float:left;
+}
+.FooterText{
+	font-family: 'Roboto Mono', monospace;
+
+	font-size:14px;
+	color:#000;
+}
