@@ -73,6 +73,8 @@ size:auto;
 	font-size:18px;
 	text-align:justify;
 	margin-left:90px;
+	resize:both;
+	overflow:auto;
 
 
 	
